@@ -1,8 +1,3 @@
-These pieces demonstrate theoretical knowledge and analytical thinking across networking, cloud infrastructure, DevOps, troubleshooting, and storage solutions — complementing the hands-on practical projects in my other repositories.
-
-📂 Contents
-ReportUnitLevelCollegeDevOps Principles & PracticeProfessional Practice in Networking & Cloud InfrastructureHNDNew College LanarkshireTroubleshooting Computing ProblemsH17734 Troubleshooting Computing ProblemsHNCEdinburgh CollegeNetwork Storage SolutionsNetwork Operating SystemHNDNew College Lanarkshire
-
 # 📚 Research & Reports Portfolio
 
 > A collection of academic reports, research assignments, and knowledge assessments completed across my **HNC Computing** and **HND Cloud and Network Infrastructure** studies at Edinburgh College and New College Lanarkshire.
